@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T04:49:57.110Z'
-dateModified: '2016-03-07T04:49:42.225Z'
+datePublished: '2016-03-07T07:06:38.435Z'
+dateModified: '2016-03-07T07:06:15.244Z'
 title: Executive
 author: []
+sourcePath: _posts/2016-03-07-executive.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-executive.md
-published: true
 url: executive/index.html
 _type: Article
 
 ---
-**EXPERIENCE**
+**EXECUTIVE, PRODUCER, WRITER, ENTREPRENEUR, INVENTOR, BRAND STRATEGIST**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65680df2-8db3-4247-844b-3ba7966343d1.png)
 
 Blue Skies Entertainment - President & CCO 
