@@ -1,6 +1,6 @@
 name: VickiLea
 favicon: null
-layout_spectrum: 0.70565
+layout_spectrum: 0.64297
 typography_spectrum: 0.76137
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#818d8f'
     - '#ffba5f'
     - '#6eb4f0'
-  brandStrength: 0.4375
+  brandStrength: 0.5
   lightness: 0.6875
   saturation: 0.375
   rhythmicContrast: 0.25
