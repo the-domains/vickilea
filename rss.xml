@@ -4,7 +4,7 @@
         <description><![CDATA[Vicki Lea]]></description>
         <link>https://thegrid.ai/vickilea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 18:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 21:38:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vickilea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,25 @@
             <pubDate>Mon, 07 Mar 2016 18:13:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Strategy]]></title>
+            <description><![CDATA[<article><h1>Strategy</h1><p>Brand Strategy, Infrastructure Strategy, and Corporate Strategy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79ac0b30c18491b4354bfd6e10fef4c382f4e451.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vickilea/d5d5fd84-0f98-4de7-b6cc-c9110597e61e/index.html</link>
+            <guid isPermaLink="false">d5d5fd84-0f98-4de7-b6cc-c9110597e61e</guid>
+            <pubDate>Thu, 28 Apr 2016 21:37:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>ACCOMPLISHMENTS & HIGHLIGHTS</p>]]></description>
             <link>https://thegrid.ai/vickilea/73087797-4d6a-4a46-83aa-a1523ab80b0f/index.html</link>
             <guid isPermaLink="false">73087797-4d6a-4a46-83aa-a1523ab80b0f</guid>
             <pubDate>Mon, 07 Mar 2016 07:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Executive]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65680df2-8db3-4247-844b-3ba7966343d1.png">]]></description>
+            <link>https://thegrid.ai/vickilea/executive/index.html</link>
+            <guid isPermaLink="false">3a20da56-7ba6-48f6-8cb9-4c7a91f40e04</guid>
+            <pubDate>Mon, 07 Mar 2016 07:06:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,10 +43,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c6c00b7-f5e9-4347-9913-4524dcb14192.jpg">]]></description>
-            <link>https://thegrid.ai/vickilea/d5d5fd84-0f98-4de7-b6cc-c9110597e61e/index.html</link>
-            <guid isPermaLink="false">d5d5fd84-0f98-4de7-b6cc-c9110597e61e</guid>
-            <pubDate>Mon, 07 Mar 2016 18:15:22 GMT</pubDate>
+            <description><![CDATA[<p>Other Leadership</p>]]></description>
+            <link>https://thegrid.ai/vickilea/8de3404d-2c5a-43d9-8000-2e52e1024797/index.html</link>
+            <guid isPermaLink="false">8de3404d-2c5a-43d9-8000-2e52e1024797</guid>
+            <pubDate>Mon, 07 Mar 2016 06:26:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,20 +61,6 @@
             <link>https://thegrid.ai/vickilea/4d9db53e-fdc2-4703-b26e-08861c46dc71/index.html</link>
             <guid isPermaLink="false">4d9db53e-fdc2-4703-b26e-08861c46dc71</guid>
             <pubDate>Mon, 07 Mar 2016 05:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Other Leadership</p>]]></description>
-            <link>https://thegrid.ai/vickilea/8de3404d-2c5a-43d9-8000-2e52e1024797/index.html</link>
-            <guid isPermaLink="false">8de3404d-2c5a-43d9-8000-2e52e1024797</guid>
-            <pubDate>Mon, 07 Mar 2016 06:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Executive]]></title>
-            <description><![CDATA[<article><h1>Executive</h1><p>EXECUTIVE, PRODUCER, WRITER, ENTREPRENEUR, INVENTOR, BRAND STRATEGIST</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab14371959fc86dd1ac51f8f2e6a551e5a489c9.png"></article>]]></description>
-            <link>https://thegrid.ai/vickilea/executive/index.html</link>
-            <guid isPermaLink="false">3a20da56-7ba6-48f6-8cb9-4c7a91f40e04</guid>
-            <pubDate>Mon, 07 Mar 2016 07:06:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
