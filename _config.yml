@@ -1,7 +1,7 @@
 name: Vicki Lea
 favicon: null
-layout_spectrum: 0.64297
-typography_spectrum: 0.93955
+layout_spectrum: 0.33975
+typography_spectrum: 0.67072
 title: 'Biography, Experiences and Creative Achievements'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#818d8f'
     - '#ffba5f'
     - '#6eb4f0'
-  brandStrength: 0.5
+  brandStrength: 0.625
   lightness: 0.6875
-  saturation: 0.375
-  rhythmicContrast: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
