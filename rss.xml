@@ -4,7 +4,7 @@
         <description><![CDATA[Biography, Experiences and Creative Achievements]]></description>
         <link>https://thegrid.ai/vickilea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 21:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 21:44:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vickilea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Planning, Branding, Pro Forma, Investment Packaging]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/vickilea/executive/index.html</link>
             <guid isPermaLink="false">3a20da56-7ba6-48f6-8cb9-4c7a91f40e04</guid>
             <pubDate>Fri, 24 Jun 2016 18:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Other Leadership]]></title>
+            <description><![CDATA[<article><h1>Other Leadership</h1><p>Executive Chairman - The Family Alliance</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7439d92e391feb3c987260aba89ed7d3b737bcf2.png"></article>]]></description>
+            <link>https://thegrid.ai/vickilea/8de3404d-2c5a-43d9-8000-2e52e1024797/index.html</link>
+            <guid isPermaLink="false">8de3404d-2c5a-43d9-8000-2e52e1024797</guid>
+            <pubDate>Fri, 24 Jun 2016 21:44:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Writing]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vickilea/my-book-list/index.html</link>
             <guid isPermaLink="false">c93ae737-9517-4cd7-bad0-01bbfebaa2e3</guid>
             <pubDate>Fri, 24 Jun 2016 18:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strategy]]></title>
-            <description><![CDATA[<article><h1>Strategy</h1><p>Brand Strategy, Infrastructure Strategy, and Corporate Strategy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79ac0b30c18491b4354bfd6e10fef4c382f4e451.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vickilea/d5d5fd84-0f98-4de7-b6cc-c9110597e61e/index.html</link>
-            <guid isPermaLink="false">d5d5fd84-0f98-4de7-b6cc-c9110597e61e</guid>
-            <pubDate>Thu, 28 Apr 2016 21:37:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
