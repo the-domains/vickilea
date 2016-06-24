@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Various Projects
-datePublished: '2016-06-24T18:46:38.944Z'
-dateModified: '2016-06-24T18:46:38.420Z'
+datePublished: '2016-06-24T18:52:41.038Z'
+dateModified: '2016-06-24T18:46:40.009Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-24-various-projects.md
+starred: false
 url: various-projects/index.html
 _type: Article
 
@@ -30,4 +30,4 @@ Various Projects
 
 Health & Wellness Center - Media plan, business plan and investor plan developed.
 
-New Inventions - Media plans, creative services plans to launch new products into the marketplace. Worked with numerous clientele to introduce their products to the public.
+New Inventions - Media plans, creative services plans to launch new products into the marketplace. Worked with numerous clientele to introduce their products to the public. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b83f70f2-07af-4cbb-aa70-fc19b0c9502d.jpg)
