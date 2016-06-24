@@ -4,7 +4,7 @@
         <description><![CDATA[Biography, Experiences and Creative Achievements]]></description>
         <link>https://thegrid.ai/vickilea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 21:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 21:41:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vickilea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Planning, Branding, Pro Forma, Investment Packaging]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/vickilea/executive/index.html</link>
             <guid isPermaLink="false">3a20da56-7ba6-48f6-8cb9-4c7a91f40e04</guid>
             <pubDate>Fri, 24 Jun 2016 18:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Awards & Accomplishments]]></title>
+            <description><![CDATA[<article><h1>Awards & Accomplishments</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cd4e195-e9cc-4018-b006-d1b756352932.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vickilea/awards-and-accomplishments/index.html</link>
+            <guid isPermaLink="false">0af54c55-ec32-4034-b202-04dcafbf6b98</guid>
+            <pubDate>Fri, 24 Jun 2016 21:41:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creative ]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vickilea/73087797-4d6a-4a46-83aa-a1523ab80b0f/index.html</link>
             <guid isPermaLink="false">73087797-4d6a-4a46-83aa-a1523ab80b0f</guid>
             <pubDate>Mon, 07 Mar 2016 07:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Other Leadership</p>]]></description>
-            <link>https://thegrid.ai/vickilea/8de3404d-2c5a-43d9-8000-2e52e1024797/index.html</link>
-            <guid isPermaLink="false">8de3404d-2c5a-43d9-8000-2e52e1024797</guid>
-            <pubDate>Mon, 07 Mar 2016 06:26:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
