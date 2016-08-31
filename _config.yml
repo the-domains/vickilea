@@ -1,20 +1,4 @@
-name: Vicki Lea
-favicon: null
-layout_spectrum: 0.26636
 typography_spectrum: 0.60351
-title: 'Vicki Lea - Biography, Experience and Creative Achievements'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.26636
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Vicki Lea
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Vicki Lea - Biography, Experience and Creative Achievements'
+description: 'Biography, Experience and Creative Achievements'
 purpose: []
