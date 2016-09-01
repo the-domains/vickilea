@@ -1,9 +1,10 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
+title: ''
+datePublished: '2016-08-30T06:14:10.557Z'
+dateModified: '2016-08-30T06:14:03.510Z'
+author: []
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36468368-a021-47d5-bc7c-888e6867f5c0.jpg
 description: >-
   My Book List includes books like Autobiographies, Biographies, History,
   Scientific Matters, Spiritual, Paranormal, Self-Improvement, Business, Social
@@ -13,23 +14,19 @@ description: >-
   beginning of the journey to discover more about each subject and the ideas
   presented or discussed. Knowledge is power and the use of that knowledge, with
   proper preparation, can come at crucial times which may be completely
-  unexpected. 
-datePublished: '2016-06-24T18:43:06.627Z'
-dateModified: '2016-06-24T18:41:53.954Z'
-title: ''
-author: []
-authors: []
-publisher: null
+  unexpected.
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-06-24-my-book-list.md
-url: my-book-list/index.html
-_type: Article
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
+My Book List includes books like Autobiographies, Biographies, History, Scientific Matters, Spiritual, Paranormal, Self-Improvement, Business, Social Psychology, Technology and more. I'm an avid reader and enjoy exploring new topics for increasing my knowledge and experience with those topics. My time on a topic does not stop with just reading a book, many times, it is just the beginning of the journey to discover more about each subject and the ideas presented or discussed. Knowledge is power and the use of that knowledge, with proper preparation, can come at crucial times which may be completely unexpected.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36468368-a021-47d5-bc7c-888e6867f5c0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/953fd162-5283-4fb6-ab69-e8ee3d4ff597.jpg)
-
-My Book List includes books like Autobiographies, Biographies, History, Scientific Matters, Spiritual, Paranormal, Self-Improvement, Business, Social Psychology, Technology and more. I'm an avid reader and enjoy exploring new topics for increasing my knowledge and experience with those topics. My time on a topic does not stop with just reading a book, many times, it is just the beginning of the journey to discover more about each subject and the ideas presented or discussed. Knowledge is power and the use of that knowledge, with proper preparation, can come at crucial times which may be completely unexpected. 
 
 _Outliers_ by Malcolm Gladwell
 
